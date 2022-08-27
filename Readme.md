@@ -10,3 +10,7 @@ for the purpose of selling products and services
 
 ## How to use this
 npm install
+## Or
+
+yarn install
+npx

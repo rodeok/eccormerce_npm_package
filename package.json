@@ -1,8 +1,12 @@
 {
   "name": "juiceapi1",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "description": "",
   "main": "index.js",
+  "bin":{
+    "juiceapi1":"*",
+    "juice":"*"
+  },
   "scripts": {
     "start": "nodemon index.js"
   },
