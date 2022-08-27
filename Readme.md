@@ -12,5 +12,5 @@ for the purpose of selling products and services
 npm install
 ## Or
 
-yarn install
-npx
+npx <packagename>
+
